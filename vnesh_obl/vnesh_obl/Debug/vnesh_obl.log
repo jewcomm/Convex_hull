@@ -1,4 +1,0 @@
-﻿  Source.cpp
-LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/PROFILE"
-Source.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:REF"
-  vnesh_obl.vcxproj -> C:\Users\alexu\source\repos\vnesh_obl\Debug\vnesh_obl.exe
